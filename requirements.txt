@@ -1,0 +1,22 @@
+# Core
+numpy>=1.21
+matplotlib>=3.5
+opencv-python-headless>=4.5
+tqdm>=4.62
+PyYAML>=6.0
+torch>=2.0
+torchvision>=0.15
+ultralytics>=8.0
+openslide-python>=1.2.0
+geojson>=2.5.0
+shapely>=2.0
+concurrent-log-handler>=0.9.20  # To ensure concurrent.futures support in some platforms
+
+# Optional but recommended for GPU optimization
+nvidia-cublas-cu12
+nvidia-cuda-runtime-cu12
+nvidia-cudnn-cu12
+
+# Jupyter support
+notebook>=6.5
+ipykernel>=6.0
