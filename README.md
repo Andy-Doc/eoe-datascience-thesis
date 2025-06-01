@@ -1,8 +1,4 @@
-# eoe-datascience-thesis
 
-Machine Learning models and analysis for eosinophilic esophagitis detection and classification - Master of Data Science thesis project
-
-# eoe-datascience-thesis Title:
 
 **Medical Images Analysis in Patients with Eosinophilic Esophagitis**  
 _MSc Data Science Thesis Project_
